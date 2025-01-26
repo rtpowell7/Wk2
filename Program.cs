@@ -11,7 +11,7 @@ namespace Wk2Ex1
         static void Main(string[] args)
         {
 
-           
+           //Excercise 1
             Console.WriteLine("Interest Calculator Program");
 
             // Input principal
@@ -30,7 +30,7 @@ namespace Wk2Ex1
             // Output
             Console.WriteLine($"Total interest of Loan: {interest} dollars");
 
-            
+           //Excercise 2 
            
             // Input length 
             Console.Write("Enter the length of the rectangle: ");
@@ -47,7 +47,7 @@ namespace Wk2Ex1
             Console.WriteLine($"Area of the rectangle: {area}");
             Console.WriteLine($"Perimeter of the rectangle: {perimeter}");
 
-
+            //Excercise 3
             Console.WriteLine("Welcome to Temperature Converter");
 
             // Input temperature 
@@ -61,7 +61,7 @@ namespace Wk2Ex1
             Console.WriteLine($"{fahrenheit}°F is equivalent to {celsius:F2}°C");
 
 
-
+            //Excercise 4
             Console.WriteLine("Welcome to the Hypotenuse Calculator");
 
             // Input length a 

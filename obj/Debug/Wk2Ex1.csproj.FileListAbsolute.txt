@@ -1,0 +1,7 @@
+C:\Users\powel\programmingClass\Wk2Ex1\Wk2Ex1\bin\Debug\Wk2Ex1.exe.config
+C:\Users\powel\programmingClass\Wk2Ex1\Wk2Ex1\bin\Debug\Wk2Ex1.exe
+C:\Users\powel\programmingClass\Wk2Ex1\Wk2Ex1\bin\Debug\Wk2Ex1.pdb
+C:\Users\powel\programmingClass\Wk2Ex1\Wk2Ex1\obj\Debug\Wk2Ex1.csproj.AssemblyReference.cache
+C:\Users\powel\programmingClass\Wk2Ex1\Wk2Ex1\obj\Debug\Wk2Ex1.csproj.CoreCompileInputs.cache
+C:\Users\powel\programmingClass\Wk2Ex1\Wk2Ex1\obj\Debug\Wk2Ex1.exe
+C:\Users\powel\programmingClass\Wk2Ex1\Wk2Ex1\obj\Debug\Wk2Ex1.pdb

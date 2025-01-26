@@ -75,7 +75,7 @@ namespace Wk2Ex1
             double c = Math.Sqrt(Math.Pow(a, 2) + Math.Pow(b, 2));
 
             // Output 
-            Console.WriteLine($"The length of the hypotenuse is: {c:F2}");
+            Console.WriteLine($"The length of the hypotenuse is: {c}");
 
             Console.WriteLine("Thank you for using the Hypotenuse Calculator");
 
